@@ -4,7 +4,6 @@ This repository doesn't provide any useful software yet but the idea is to lever
 
 I beleive that knowing ony builds individuality, whereas sharing builds commnities, and communities create environment and environmets are the key to prevail.
 
-A good example of it is Github itself, because they are sharing their platform free for the world, it has created communities that in turn created an environment that is prevailing.
-
+Github is a good example of such environment, by sharing their platform free with the world has created communities and it is prevailing.
 
 
